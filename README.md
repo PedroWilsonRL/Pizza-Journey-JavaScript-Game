@@ -7,3 +7,5 @@
 ![4](https://github.com/user-attachments/assets/6ec50d6c-fa5b-41a2-b84a-9bd6fd569266)
 # 👾🎮 All maps:
 ![5](https://github.com/user-attachments/assets/3b41bf4f-860c-4ef2-9f71-b9b6c312697d)
+# 👾🎮 Play the Game:
+https://pedrowilsonrl.github.io/Pizza-Journey-JavaScript-Game
